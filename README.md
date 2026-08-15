@@ -82,47 +82,27 @@ I enjoy building things for the web, experimenting with new technologies, and tu
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### 🌐 Web Applications
 
-**Responsive · Modern · User-focused**
-
-Websites and applications that combine clean interfaces with practical functionality.
+Responsive websites and practical web apps built with modern frontend and backend technologies.
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### ⚡ Full-Stack Systems
+### 🤖 AI Projects
 
-**Frontend · Backend · Database**
-
-End-to-end applications with APIs, server-side logic, and data storage.
+Exploring AI-powered applications that solve practical problems and turn ideas into useful tools.
 
 </td>
 
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-
-### 🤖 AI-Powered Applications
-
-**Smart · Practical · Experimental**
-
-Exploring ways to integrate AI into useful applications and real-world workflows.
-
-</td>
-
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### 🧰 Developer Tools
 
-**Simple · Useful · Efficient**
-
-Small tools and utilities designed to make development and everyday tasks easier.
+Small utilities and projects that help simplify everyday tasks and improve development workflows.
 
 </td>
 
@@ -131,7 +111,7 @@ Small tools and utilities designed to make development and everyday tasks easier
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1800&color=6366F1&center=true&vCenter=true&width=650&lines=I+build+to+learn+%E2%80%94+and+learn+by+building.;Ideas+%E2%86%92+Code+%E2%86%92+Working+Products+%F0%9F%9A%80" alt="Build Philosophy"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1800&color=6366F1&center=true&vCenter=true&width=650&lines=I+build+to+learn+%E2%80%94+and+learn+by+building.;Ideas+%E2%86%92+Code+%E2%86%92+Working+Projects+%F0%9F%9A%80" alt="Build Philosophy"/>
 
 </div>
 
@@ -157,13 +137,17 @@ Small tools and utilities designed to make development and everyday tasks easier
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbubakerAfzal01&show_icons=true&theme=transparent&hide_border=true&count_private=false" height="165"/>
+<a href="https://github.com/AbubakerAfzal01">
+<img src="https://github-stats-extended.vercel.app/api?username=AbubakerAfzal01&show_icons=true&theme=transparent&hide_border=true&count_private=false" height="165" alt="GitHub Stats"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakerAfzal01&layout=compact&theme=transparent&hide_border=true" height="165"/>
+<a href="https://github.com/AbubakerAfzal01">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=AbubakerAfzal01&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages"/>
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=AbubakerAfzal01&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=AbubakerAfzal01&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -173,7 +157,7 @@ Small tools and utilities designed to make development and everyday tasks easier
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbubakerAfzal01&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbubakerAfzal01&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -183,7 +167,7 @@ Small tools and utilities designed to make development and everyday tasks easier
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbubakerAfzal01/AbubakerAfzal01/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbubakerAfzal01/AbubakerAfzal01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -237,7 +221,7 @@ Small tools and utilities designed to make development and everyday tasks easier
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=AbubakerAfzal01&label=Profile%20Views&color=6366f1&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=AbubakerAfzal01&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views"/>
 
 <br><br>
 
