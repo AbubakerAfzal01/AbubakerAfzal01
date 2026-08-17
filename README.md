@@ -18,6 +18,10 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://drive.google.com/file/d/1l4dzf7pFvlVIH88H1s3X-EvHQbm_7N4I/view">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
 </div>
 
 ---
