@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://abubaker-afzal.netlify.app/">
+<a href="https://abubaker-afzal.vercel.app/">    
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
@@ -125,7 +125,7 @@ Small utilities and projects that help simplify everyday tasks and improve devel
 
 <div align="center">
 
-<a href="https://abubaker-afzal.netlify.app/">
+<a href="https://abubaker-afzal.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-6366F1?style=for-the-badge"/>
 </a>
 
@@ -181,7 +181,7 @@ Small utilities and projects that help simplify everyday tasks and improve devel
 
 <div align="center">
 
-<a href="https://abubaker-afzal.netlify.app/">
+<a href="https://abubaker-afzal.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
