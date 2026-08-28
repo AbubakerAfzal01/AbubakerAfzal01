@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abubaker%20Afzal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%C2%B7%20Aspiring%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Building+for+the+web+%F0%9F%8C%90;Learning+%26+improving+every+day+%F0%9F%93%9A;Turning+ideas+into+working+projects+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=Building+for+the+web+%F0%9F%8C%90;Learning+by+building+real+projects+%F0%9F%9A%80;Turning+ideas+into+working+applications+%F0%9F%92%BB;Growing+one+project+at+a+time+%F0%9F%93%9A" alt="Typing SVG"/>
 
 <br>
 
-<a href="https://abubaker-afzal.vercel.app/">    
+<a href="https://abubaker-afzal.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
@@ -30,14 +30,15 @@
 
 Hi, I'm **Abubaker Afzal**, a Computer Science student from Pakistan and an aspiring **Full-Stack Developer**.
 
-I enjoy building things for the web, experimenting with new technologies, and turning ideas into practical projects.
+I enjoy turning ideas into practical software and learning by building real projects. My current focus is strengthening my JavaScript fundamentals and gradually moving deeper into modern frontend and backend development.
 
 * 🌱 Currently learning **JavaScript & modern web development**
 * ⚛️ Exploring **React, Node.js, Express & MongoDB**
-* 🛠️ Learning through hands-on projects
+* 🛠️ Building projects to turn concepts into practical experience
 * 🤖 Interested in **AI-powered applications**
-* 🎯 Working toward becoming a **Full-Stack Developer**
-* 🤝 Always open to learning, collaboration, and new opportunities
+* 💡 Interested in solving real-world problems through software
+* 🎯 Working toward becoming a **well-rounded Full-Stack Developer**
+* 🤝 Open to collaboration, learning, and meaningful opportunities
 
 ---
 
@@ -49,11 +50,11 @@ I enjoy building things for the web, experimenting with new technologies, and tu
 
 <br><br>
 
-**JavaScript → React → Node.js → Express → MongoDB**
+### JavaScript → React → Node.js → Express → MongoDB
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=6366F1&center=true&vCenter=true&width=600&lines=Learning+by+building+real+projects;Turning+concepts+into+working+applications" alt="Current Focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=6366F1&center=true&vCenter=true&width=650&lines=Strengthening+fundamentals;Building+real+projects;Learning+modern+web+development;Turning+concepts+into+working+applications" alt="Current Focus"/>
 
 </div>
 
@@ -90,23 +91,23 @@ I enjoy building things for the web, experimenting with new technologies, and tu
 
 ### 🌐 Web Applications
 
-Responsive websites and practical web apps built with modern frontend and backend technologies.
+Responsive websites and practical web applications focused on usability, clean interfaces, and real-world functionality.
 
 </td>
 
 <td align="center" width="33%">
 
-### 🤖 AI Projects
+### 🤖 AI-Powered Ideas
 
-Exploring AI-powered applications that solve practical problems and turn ideas into useful tools.
+Exploring how AI can be integrated into applications to automate tasks, improve experiences, and solve practical problems.
 
 </td>
 
 <td align="center" width="33%">
 
-### 🧰 Developer Tools
+### 💻 Software Projects
 
-Small utilities and projects that help simplify everyday tasks and improve development workflows.
+Desktop applications, utilities, and academic projects built to strengthen programming, problem-solving, and software development skills.
 
 </td>
 
@@ -115,7 +116,7 @@ Small utilities and projects that help simplify everyday tasks and improve devel
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1800&color=6366F1&center=true&vCenter=true&width=650&lines=I+build+to+learn+%E2%80%94+and+learn+by+building.;Ideas+%E2%86%92+Code+%E2%86%92+Working+Projects+%F0%9F%9A%80" alt="Build Philosophy"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1800&color=6366F1&center=true&vCenter=true&width=700&lines=I+build+to+learn+%E2%80%94+and+learn+by+building.;Ideas+%E2%86%92+Code+%E2%86%92+Working+Projects+%F0%9F%9A%80" alt="Build Philosophy"/>
 
 </div>
 
@@ -129,11 +130,11 @@ Small utilities and projects that help simplify everyday tasks and improve devel
 <img src="https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-6366F1?style=for-the-badge"/>
 </a>
 
+<br><br>
+
+Explore my repositories for **web applications, desktop projects, experiments, learning exercises, and development notes**.
+
 </div>
-
-<br>
-
-> Explore my repositories to see projects, experiments, and what I'm currently learning.
 
 ---
 
@@ -220,6 +221,8 @@ Small utilities and projects that help simplify everyday tasks and improve devel
 <div align="center">
 
 ### 💭 Keep Learning. Keep Building. Keep Growing.
+
+**Building today. Improving tomorrow.**
 
 ⭐ **Thanks for visiting my profile!**
 
