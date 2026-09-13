@@ -158,16 +158,6 @@ Explore my repositories for **web applications, desktop projects, experiments, l
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbubakerAfzal01&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
