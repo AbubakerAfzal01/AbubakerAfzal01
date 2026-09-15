@@ -146,6 +146,9 @@ Explore my repositories for **web applications, desktop projects, experiments, l
 <img src="https://github-stats-extended.vercel.app/api?username=AbubakerAfzal01&show_icons=true&theme=transparent&hide_border=true&count_private=false" height="165" alt="GitHub Stats"/>
 </a>
 
+
+
+
 <a href="https://github.com/AbubakerAfzal01">
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=AbubakerAfzal01&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages"/>
 </a>
@@ -156,17 +159,7 @@ Explore my repositories for **web applications, desktop projects, experiments, l
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AbubakerAfzal01/AbubakerAfzal01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
