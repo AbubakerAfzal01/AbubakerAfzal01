@@ -48,6 +48,7 @@ I enjoy turning ideas into practical software and learning by building real proj
 <br><br>
 
 ### JavaScript → React → Node.js → Express → MongoDB
+#### MERN STACK 
 
 <sub>Strengthening fundamentals · Building real projects · Turning concepts into working applications</sub>
 
