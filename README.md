@@ -1,10 +1,15 @@
 <div align="center"> 
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abubaker%20Afzal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%C2%B7%20Aspiring%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<br>
+
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=Building+for+the+web+%F0%9F%8C%90;Learning+by+building+real+projects+%F0%9F%9A%80;Turning+ideas+into+working+applications+%F0%9F%92%BB;Growing+one+project+at+a+time+%F0%9F%93%9A" alt="Typing SVG"/>
 
 <br>
+
 
 <a href="https://abubaker-afzal.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
@@ -22,6 +27,10 @@
 </div>
 
 ---
+<div align="center">
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AbubakerAfzal01&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views"/>
 
 
 ## 👋 About Me
@@ -155,11 +164,13 @@ Explore my repositories for **web applications, desktop projects, experiments, l
 
 ⭐ **Thanks for visiting my profile!**
 
+
+<br><br>
+<div align="center">
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=AbubakerAfzal01&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views"/>
 
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
